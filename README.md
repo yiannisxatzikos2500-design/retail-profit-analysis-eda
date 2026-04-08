@@ -3,8 +3,7 @@
 This project analyzes retail performance data to identify the disconnect between high sales volume and net profitability across different regions and product categories.
 
 ## Project Overview
-The goal of this analysis is to refine advertising policies and regional sales strategies. By identifying "Profit Killers"—products or regions with high volume but negative margins—we can reallocate marketing resources toward segments that actually drive growth.
-
+The goal of this analysis is to identifying products that have negative effect on our profit or regions with high volume but negative margins and provide this information to the business administration team to tackle these problems.
 ## Key Insights
 * **The Volume-Profit Gap:** High-volume states like **Texas** and **Pennsylvania** are operating at a net loss, proving that sales growth does not always translate into profit.
 * **Regional Anomalies:** While **Binders** are generally a profitable category, they incur major losses in specific regions. 
